@@ -1,7 +1,7 @@
 function load_laws(){
 	const xhttp = new XMLHttpRequest();
 	xhttp.onload = parse_laws;
-	xhttp.open("GET", "laws.json", true);
+	xhttp.open("GET", "web/laws.json", true);
 	xhttp.send();
 }
 var data;
