@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="A serchable index of the cheese laws">
+		<meta name="keywords" content="cheese, cheeseland, laws, list">
+		<title>Cheese Laws</title>
+		<link rel="stylesheet" type="text/css" href="../css/body.css">
+		<link rel="stylesheet" type="text/css" href="../css/nav.css">
+		<link rel="stylesheet" type="text/css" href="../css/search.css">
+		<link rel="stylesheet" type="text/css" href="../css/laws.css">
+		<link rel="icon" type="image/svg+xml" href="../favicon.svg">
+		<script src="get_laws.js"></script>
+	</head>
+	<body>
+		<nav>
+			<div class="logo-container"><img src="../favicon.svg" alt="logo"></div>
+			<h1><b>Cheese Laws</b></h1>
+			<h2>As of Thu 13 Jan</h2>
+			<section>
+				<h1><b>Mission</b></h1>
+				<p>Established by the Minfo (Ministry of information) to collate the nation's laws.</p>
+			</section>
+			<section>
+				<h1><b>Contract</b></h1>
+				<p>You must keep a somewhat regular log of all constitutional amendments and laws in a document. Pay is 4cc/major update to this document.</p>
+			</section>
+			<section>
+				<h1><b>Source code</b></h1>
+				<p>Hosted on GitHub (link soon). Based on the ayu style from docs.rs</p>
+			</section>
+		</nav>
+		<section id="content">
+			<input type="search" id="search-box" placeholder="Type here or press &quot;S&quot; to search laws" oninput="update_search(event)" value=""/>
+			
+			<div id="laws-box"></div>
+		</section>
+	</body>
+</html>

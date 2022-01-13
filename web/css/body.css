@@ -1,0 +1,21 @@
+:root{
+	--body: #0f1419;
+	--nav: #14191f;
+	--text: #c5c5c5;
+}
+
+body{
+	background-color: var(--body);
+	color: var(--text);
+	margin: 0;
+	position: relative;
+	padding: 0;
+	scrollbar-color: #5c6773 transparent;
+	font-family: "Fira Sans",sans-serif;
+}
+nav{
+	background-color: var(--nav);
+}
+#content{
+	padding: 10px;
+}

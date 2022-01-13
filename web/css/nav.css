@@ -1,0 +1,78 @@
+:root {
+	--seperator: #c5c5c562;
+	--seperator-selected: #33a4c0;
+}
+@media screen and (min-width: 1000px) {
+	nav{
+		width: 200px;
+		position: fixed;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		overflow: auto;
+		display: block;
+	}
+	nav .logo-container{
+		height: 120px;
+		width: 120px;
+		position: relative;
+		margin: 20px auto;
+		display: block;
+		margin-top: 10px;
+		margin-bottom: 40px;
+	}
+	
+	nav h1{
+		margin: 10px 10px 20px 10px;
+	}
+
+	#content {
+		margin-left: 200px;
+	}
+}
+@media not (min-width: 1000px) {
+	nav{
+		height: 40px;
+		width: 100%;
+		display: flex;
+	}
+	nav .logo-container{
+		height: 100%;
+		display: inline-block;
+	}
+	nav h1, nav h2{
+		display:inline-block;
+		margin:auto;
+	}
+	nav h1{
+		flex-grow: 1;
+	}
+	nav h2::first-letter{
+		text-transform: lowercase;
+	}
+	nav section{
+		display:none;
+	}
+}
+nav .logo-container img{
+	height: 100%;
+}
+nav h1, h2, p{
+	font-size: 18px;
+	word-wrap: break-word;
+	text-align: center;
+}
+nav h2{
+	font-size: 15px;
+}
+nav p{
+	font-size: 13px;
+}
+nav section::before{
+	margin-top: 20px;
+	content: "";
+	width:100%;
+	display: block;
+	background-color: var(--seperator);
+	height: 1px;
+}

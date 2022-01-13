@@ -1,0 +1,13 @@
+#search-box{
+	width: 100%;
+	font-size: 17px;
+	padding: 5px;
+	color: var(--text);
+	background-color: var(--nav);
+	border: 1px solid var(--seperator);
+}
+#search-box-selected{
+	border-color: var(--seperator-selected);
+	outline: none;
+	box-shadow: none;
+}

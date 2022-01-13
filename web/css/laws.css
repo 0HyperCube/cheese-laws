@@ -1,0 +1,16 @@
+.law-title{
+	color: var(--seperator-selected);
+	font-size: 18px;
+	font-weight:bold;
+	text-transform: capitalize;
+}
+.law-status{
+	font-size: 18px;
+}
+.law-info{
+	margin-left: 50px;
+	margin-bottom: 20px;
+}
+#laws-box{
+	margin-top:20px;
+}
