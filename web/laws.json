@@ -2,6 +2,16 @@
 	"generated": "Sat 15 Jan",
 	"laws": [
 		{
+			"id": "931951774342996039",
+			"last_message_id": "931951808962789457",
+			"name": "Abolish transaction tax",
+			"votes": "1-for-1-against",
+			"passed": false,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Abolish transaction tax, again.<br><b>Alan:</b> For<br><b>James:</b> Against<br>"
+		},
+		{
 			"id": "931834809536368680",
 			"last_message_id": "931878242980360202",
 			"name": "Presidential election (15.01.22)",
