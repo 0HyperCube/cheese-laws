@@ -17,11 +17,13 @@ function update_search(term){
 		term = term.target.value.toLowerCase();
 	}
 
+	document.getElementById("generated").textContent = "As of "+data.generated;
+
 	let laws_box = document.getElementById("laws-box");
 	while (laws_box.lastChild) {
 		laws_box.removeChild(laws_box.lastChild);
 	}
-	data.forEach(law => {
+	data.laws.forEach(law => {
 		if (!term || law.name.toLowerCase().includes(term) || law.description.toLowerCase().includes(term)){
 			let law_title = document.createElement("span");
 			law_title.classList.add("law-title");
@@ -30,7 +32,7 @@ function update_search(term){
 
 			let law_status = document.createElement("span");
 			law_status.classList.add("law-status");
-			law_status.textContent = " " + law.status;
+			law_status.textContent = " " + law.status + ": "+law.votes;
 			laws_box.appendChild(law_status);
 
 			let law_info = document.createElement("div");

@@ -38,12 +38,25 @@ pub struct GuildMember {
 	pub user: GuildUser,
 }
 
+#[derive(Debug, Deserialize)]
+pub struct Channel {
+	pub name: String,
+}
+
 #[derive(Debug, Serialize, Deserialize)]
 pub struct LawInfo {
 	pub id: String,
 	pub last_message_id: String,
 	pub name: String,
+	pub votes: String,
+	pub passed: bool,
 	pub status: String,
 	pub interpretation: String,
 	pub description: String,
+}
+
+#[derive(Debug, Serialize, Deserialize, Default)]
+pub struct LawData {
+	pub generated: String,
+	pub laws: Vec<LawInfo>,
 }

@@ -7,7 +7,7 @@
 	border: 1px solid var(--seperator);
 }
 #search-box-selected{
-	border-color: var(--seperator-selected);
+	border-color: var(--primary-highlight);
 	outline: none;
 	box-shadow: none;
 }

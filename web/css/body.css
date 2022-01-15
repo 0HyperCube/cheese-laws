@@ -2,6 +2,10 @@
 	--body: #0f1419;
 	--nav: #14191f;
 	--text: #c5c5c5;
+	--seperator: #c5c5c562;
+	--primary-highlight: #33a4c0;
+	--primary-transparent: #33a4c08c;
+	--primary-dim: #266575;
 }
 
 body{
@@ -18,4 +22,8 @@ nav{
 }
 #content{
 	padding: 10px;
+}
+a{
+	color: var(--primary-highlight);
+	text-decoration: none;
 }

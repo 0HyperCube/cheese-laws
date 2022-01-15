@@ -1,8 +1,4 @@
-:root {
-	--seperator: #c5c5c562;
-	--seperator-selected: #33a4c0;
-}
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
 	nav{
 		width: 200px;
 		position: fixed;
@@ -30,7 +26,7 @@
 		margin-left: 200px;
 	}
 }
-@media not (min-width: 1000px) {
+@media not (min-width: 700px) {
 	nav{
 		height: 40px;
 		width: 100%;

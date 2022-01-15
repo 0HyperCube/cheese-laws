@@ -9,7 +9,7 @@ use hyper::{
 use hyper_tls::HttpsConnector;
 use serde::Deserialize;
 
-use crate::discord_structs::GuildMember;
+use crate::discord_structs::{Channel, GuildMember};
 
 #[derive(std::fmt::Debug)]
 pub enum LawError {
@@ -36,6 +36,7 @@ impl Response {
 pub struct LawsClient {
 	client: Client<HttpsConnector<HttpConnector>>,
 	nicknames: HashMap<String, String>,
+	channel_names: HashMap<String, String>,
 }
 impl LawsClient {
 	pub const API: &'static str = "https://discord.com/api/v9";
@@ -45,6 +46,7 @@ impl LawsClient {
 		Self {
 			client: Client::builder().build::<_, hyper::Body>(https),
 			nicknames: HashMap::new(),
+			channel_names: HashMap::new(),
 		}
 	}
 	pub async fn request(&self, uri: String) -> Result<Response, LawError> {
@@ -92,5 +94,22 @@ impl LawsClient {
 		}
 
 		Ok(&self.nicknames.get(user_id).unwrap())
+	}
+	pub async fn get_channel_name(&mut self, channel_id: &String) -> Result<&String, LawError> {
+		if !self.channel_names.contains_key(channel_id) {
+			let channel = self.request(format!("{}/channels/{}", Self::API, channel_id)).await?.decode::<Channel>();
+
+			self.channel_names.insert(
+				channel_id.clone(),
+				if let Ok(channel) = channel {
+					channel.name
+				} else {
+					info!("Deleted channel {:?} {}", channel, channel_id);
+					"Deleted Channel".to_string()
+				},
+			);
+		}
+
+		Ok(&self.channel_names.get(channel_id).unwrap())
 	}
 }

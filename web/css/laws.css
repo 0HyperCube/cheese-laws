@@ -1,5 +1,5 @@
 .law-title{
-	color: var(--seperator-selected);
+	color: var(--primary-highlight);
 	font-size: 18px;
 	font-weight:bold;
 	text-transform: capitalize;
@@ -13,4 +13,10 @@
 }
 #laws-box{
 	margin-top:20px;
+}
+.ping{
+	background-color: var(--primary-transparent);
+	color: white;
+	border-radius: 2px;
+	padding:0 2px;
 }
