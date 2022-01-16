@@ -12,6 +12,7 @@ pub struct Thread {
 	pub name: String,
 	pub last_message_id: String,
 	pub thread_metadata: ThreadMetadata,
+	pub parent_id: String,
 }
 
 #[derive(Debug, Deserialize)]
@@ -50,6 +51,7 @@ pub struct LawInfo {
 	pub name: String,
 	pub votes: String,
 	pub passed: bool,
+	pub constitution: bool,
 	pub status: String,
 	pub interpretation: String,
 	pub description: String,

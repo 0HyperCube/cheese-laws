@@ -81,6 +81,7 @@ async fn format_content<'a>(client: &mut LawsClient, mut content: Peekable<Chars
 					}
 					let id = parse_id(&mut content);
 					result += r#"<span class="ping">@"#;
+					info!("ID {}", &id);
 					result += client.get_nickname(&id).await.unwrap();
 					result += "</span>";
 				}
@@ -129,7 +130,7 @@ async fn get_messages(client: &mut LawsClient, thread: &Thread) -> Result<(Strin
 	Ok((description, passed, votes))
 }
 
-async fn update_info(client: &mut LawsClient, thread: Thread, current: Option<&LawInfo>) -> LawInfo {
+async fn update_info(client: &mut LawsClient, thread: Thread, current: Option<&LawInfo>, constitution: &str) -> LawInfo {
 	let ((description, passed, votes), interpretation) = if let Some(current) = current {
 		if current.last_message_id != thread.last_message_id {
 			(get_messages(client, &thread).await.unwrap(), current.interpretation.clone())
@@ -157,6 +158,7 @@ async fn update_info(client: &mut LawsClient, thread: Thread, current: Option<&L
 		votes,
 		passed,
 		status,
+		constitution: thread.parent_id == constitution,
 		interpretation,
 		description,
 	}
@@ -177,18 +179,22 @@ async fn run() {
 	#[allow(unused_variables)]
 	let (test, parliament, constitution) = ("910596571509456959", "907664196567703584", "907661773925126164");
 
-	let threads = get_threads(&client, &[parliament], &["archived/public", "active"]).await.unwrap();
+	let threads = get_threads(&client, &[parliament, constitution], &["archived/public", "active"])
+		.await
+		.unwrap();
 
 	let mut last_index = -1;
 	for t in threads {
 		let index = laws_data.laws.iter_mut().position(|l| l.id == t.id);
 
 		if let Some(index) = index {
-			laws_data.laws[index] = update_info(&mut client, t, Some(&laws_data.laws[index])).await;
+			laws_data.laws[index] = update_info(&mut client, t, Some(&laws_data.laws[index]), constitution).await;
 			last_index = index as isize;
 		} else {
 			last_index += 1;
-			laws_data.laws.insert((last_index) as usize, update_info(&mut client, t, None).await)
+			laws_data
+				.laws
+				.insert((last_index) as usize, update_info(&mut client, t, None, constitution).await)
 		}
 	}
 

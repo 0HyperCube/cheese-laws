@@ -27,7 +27,7 @@ function update_search(term){
 		if (!term || law.name.toLowerCase().includes(term) || law.description.toLowerCase().includes(term)){
 			let law_title = document.createElement("span");
 			law_title.classList.add("law-title");
-			law_title.textContent = law.name;
+			law_title.textContent = (law.constitution ? "[Constitution] " : "[Law] ") + law.name;
 			laws_box.appendChild(law_title);
 
 			let law_status = document.createElement("span");
