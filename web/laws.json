@@ -1,15 +1,25 @@
 {
-	"generated": "Sat 15 Jan",
+	"generated": "Sun 16 Jan",
 	"laws": [
 		{
-			"id": "931951774342996039",
-			"last_message_id": "931951808962789457",
-			"name": "Abolish transaction tax",
-			"votes": "1-for-1-against",
-			"passed": false,
+			"id": "932232562116538409",
+			"last_message_id": "932234742508716052",
+			"name": "Criminal records re-proposal",
+			"votes": "2-for-0-against",
+			"passed": true,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Abolish transaction tax, again.<br><b>Alan:</b> For<br><b>James:</b> Against<br>"
+			"description": "<b>Alan:</b> If you are found guilty in a court case, a 1-week ban is imposed on you being president, an MP or head of the bank. This begins after any imprisonment that may have occurred, and applies to all cases in the past week. <br><br>The judge can also impose a lifetime ban for cases of severe corruption, although this can be overturned.<br><b>James:</b> Against<br><b>James:</b> Everyone should be able to be an MP.<br><b>James:</b> Even if they are in jail<br><b>Alan:</b> (I am re-proposing this as it was defeated due to Louis saying ‘against’ incidentally even when he supported it)<br><b>James:</b> You have now voted against.<br><b>Alan:</b> For<br><b>James:</b> It is 4cc for me to regenerate the laws list.<br><b>Alan:</b> You will now be paid 5cc/week regardless of how much the laws list is updated<br><b>James:</b> I have not agreed to this contract.<br><b>Alan:</b> Neither did you agree to the first one<br><b>Alan:</b> <span class=\"ping\">#contracts</span><br>"
+		},
+		{
+			"id": "931951774342996039",
+			"last_message_id": "932213255441625108",
+			"name": "Abolish transaction tax",
+			"votes": "3-for-1-against",
+			"passed": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Abolish transaction tax, again.<br><b>Alan:</b> For<br><b>James:</b> Against<br><b>Adam:</b> 🙄 jeez<br><b>Adam:</b> For<br><b>Adam:</b> @everyone vote againnnn<br><b>James:</b> Your vote caused the last thread not to be passed.<br><b>Adam:</b> no I was counting the votes dumb child lol<br><b>James:</b> You typed \"against\" in https://discord.com/channels/907657508292792342/931101955575664651/931244779516329985 meaning that by law you voted against<br><b>Adam:</b> god I hate loopholes<br><b>Adam:</b> anyway is anyone else voting?<br><b>Adam:</b> also I gtg<br><b>Elliot:</b> For<br>"
 		},
 		{
 			"id": "931834809536368680",
