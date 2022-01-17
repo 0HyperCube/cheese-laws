@@ -1,27 +1,38 @@
 {
-	"generated": "Sun 16 Jan",
+	"generated": "Mon 17 Jan",
 	"laws": [
 		{
 			"id": "932232562116538409",
-			"last_message_id": "932236601050935316",
+			"last_message_id": "932288488181727312",
 			"name": "Criminal records re-proposal",
-			"votes": "1-for-1-against",
+			"votes": "1-for-2-against",
 			"passed": false,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
-			"description": "<b>Alan:</b> If you are found guilty in a court case, a 1-week ban is imposed on you being president, an MP or head of the bank. This begins after any imprisonment that may have occurred, and applies to all cases in the past week. <br><br>The judge can also impose a lifetime ban for cases of severe corruption, although this can be overturned.<br><b>James:</b> Against<br><b>James:</b> Everyone should be able to be an MP.<br><b>James:</b> Even if they are in jail<br><b>Alan:</b> (I am re-proposing this as it was defeated due to Louis saying ‘against’ incidentally even when he supported it)<br><b>James:</b> You have now voted against.<br><b>Alan:</b> For<br><b>James:</b> It is 4cc for me to regenerate the laws list.<br><b>Alan:</b> You will now be paid 5cc/week regardless of how much the laws list is updated<br><b>James:</b> I have not agreed to this contract.<br><b>Alan:</b> Neither did you agree to the first one<br><b>Alan:</b> <span class=\"ping\">#contracts</span><br><b>James:</b> against<br>"
+			"description": "<b>Alan:</b> If you are found guilty in a court case, a 1-week ban is imposed on you being president, an MP or head of the bank. This begins after any imprisonment that may have occurred, and applies to all cases in the past week. <br><br>The judge can also impose a lifetime ban for cases of severe corruption, although this can be overturned.<br><b>James:</b> Against<br><b>James:</b> Everyone should be able to be an MP.<br><b>James:</b> Even if they are in jail<br><b>Alan:</b> (I am re-proposing this as it was defeated due to Louis saying ‘against’ incidentally even when he supported it)<br><b>James:</b> You have now voted against.<br><b>Alan:</b> For<br><b>James:</b> It is 4cc for me to regenerate the laws list.<br><b>Alan:</b> You will now be paid 5cc/week regardless of how much the laws list is updated<br><b>James:</b> I have not agreed to this contract.<br><b>Alan:</b> Neither did you agree to the first one<br><b>Alan:</b> <span class=\"ping\">#contracts</span><br><b>James:</b> against<br><b>Elliot:</b> Against<br>"
 		},
 		{
-			"id": "931951774342996039",
-			"last_message_id": "932213255441625108",
-			"name": "Abolish transaction tax",
-			"votes": "3-for-1-against",
+			"id": "932363472321269780",
+			"last_message_id": "932363485344567397",
+			"name": "GEMP (again)",
+			"votes": "1-for-0-against",
 			"passed": true,
 			"constitution": false,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Abolish transaction tax, again.<br><b>Alan:</b> For<br><b>James:</b> Against<br><b>Adam:</b> 🙄 jeez<br><b>Adam:</b> For<br><b>Adam:</b> @everyone vote againnnn<br><b>James:</b> Your vote caused the last thread not to be passed.<br><b>Adam:</b> no I was counting the votes dumb child lol<br><b>James:</b> You typed \"against\" in https://discord.com/channels/907657508292792342/931101955575664651/931244779516329985 meaning that by law you voted against<br><b>Adam:</b> god I hate loopholes<br><b>Adam:</b> anyway is anyone else voting?<br><b>Adam:</b> also I gtg<br><b>Elliot:</b> For<br>"
+			"description": "<b>Alan:</b> Turns out that this law wasn’t passed after all, so:<br><br>CheeseCoins exist and are the national currency. There are 500 in circulation. More can be printed if the President, PM, Treasurer and Bank all agree. For-Profit Organisations are legal and may sell items or services for CheeseCoin<br><b>Alan:</b> For<br>"
+		},
+		{
+			"id": "931951774342996039",
+			"last_message_id": "932358707021504542",
+			"name": "Abolish transaction tax",
+			"votes": "4-for-1-against",
+			"passed": true,
+			"constitution": false,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Abolish transaction tax, again.<br><b>Alan:</b> For<br><b>James:</b> Against<br><b>Adam:</b> 🙄 jeez<br><b>Adam:</b> For<br><b>Adam:</b> @everyone vote againnnn<br><b>James:</b> Your vote caused the last thread not to be passed.<br><b>Adam:</b> no I was counting the votes dumb child lol<br><b>James:</b> You typed \"against\" in https://discord.com/channels/907657508292792342/931101955575664651/931244779516329985 meaning that by law you voted against<br><b>Adam:</b> god I hate loopholes<br><b>Adam:</b> anyway is anyone else voting?<br><b>Adam:</b> also I gtg<br><b>Elliot:</b> For<br><b>Louis:</b> For<br>"
 		},
 		{
 			"id": "931836522204913695",
@@ -30,7 +41,7 @@
 			"votes": "2-for-1-against",
 			"passed": true,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>Alan:</b> Increase the presidential term length to 2 weeks, so presidents have more time to better achieve their ‘manifestos’.<br><b>Alan:</b> For<br><b>James:</b> Against<br><b>James:</b> Nobody has a manifesto anyway.<br><b>Louis:</b> For, I wanted this originally<br>"
 		},
@@ -41,7 +52,7 @@
 			"votes": "0-for-0-against",
 			"passed": false,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>Alan:</b> You may vote in one of one way:<br><br>(1) James<br><b>Alan:</b> (1)<br><b>Louis:</b> (1)<br><b>Louis:</b> seems quite one-sided ngl<br><b>Alan:</b> I was thinking that<br><b>James:</b> (1)<br><b>James:</b> agreed<br><b>James:</b> <span class=\"ping\">#announcements</span> <span class=\"ping\">#Change presidential term length</span><br>"
 		},
@@ -1056,6 +1067,50 @@
 			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>Twaddle:</b> I believe that only people on the discord should be allowed to be MPs and vote, this would not just apply to new members, it would also apply to current members<br><b>Louis:</b> I agree (like before)<br><b>Xohng Xina and De Wok:</b> I disagree on conditions that I would agree tho trying to sort out current members would be complicated and unfair on those who were not previously aware<br><b>Louis:</b> (quite a few of elliott's party members are not on discord)<br><b>Xohng Xina and De Wok:</b> And it would be unfair to make them have to join when it wasn't a previous requirement<br><b>Xohng Xina and De Wok:</b> It's like signing up to a free subscription then finding out that you have to pay £100 each month<br><b>Twaddle:</b> Forgot to say I agree<br><b>Twaddle:</b> (With myself and not Elliott)<br><b>Louis:</b> It does make the voting system a little easier<br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>Twaddle:</b> <span class=\"ping\">@Elliot</span><br><b>Twaddle:</b> <span class=\"ping\">@Chino</span><br><b>Twaddle:</b> Please come make a decision<br><b>Elliot:</b> Yep I think we should<br><b>James:</b> But discord is free and it takes minutes to sign up.<br><b>James:</b> I am strongly in favour.<br><b>Xohng Xina and De Wok:</b> .<br><b>Alan:</b> Just keeping this unarchived so we can ‘investigate’<br>"
+		},
+		{
+			"id": "932668020785053726",
+			"last_message_id": "932675701327409182",
+			"name": "Our political situation",
+			"votes": "1-for-1-against",
+			"passed": false,
+			"constitution": false,
+			"status": "Not passed",
+			"interpretation": "",
+			"description": "<b>Twaddle:</b> Our political situation is a bit weird the only reason we have a prime minister and a president is purely because Alan wanted to have a seat of power. I propose 1) We abolish the prime minister position and give all its duties to the president 2) We abolish the president position and give all its duties to the prime minister 3) We remove both and have all MPs have admin<br><b>Alan:</b> Against- this system was designed so no one person holds all the power.<br><b>Twaddle:</b> Ok well first off we always have had a server owner who technically holds all the power<br><b>Twaddle:</b> Second the president and prime minister roles are just both people who maintain the general upkeep of the server, apart from this no addition perks are gained by their<br><b>Twaddle:</b> <i>either<br><b>Alan:</b> Ministries?<br><b>Twaddle:</b> Ok so tell me why we need two people to do this simple job if we have ministries as well?<br><b>Twaddle:</b> For (I)<br><b>Twaddle:</b> <i> For (1)<br><b>Twaddle:</b> Also <span class=\"ping\">@Alan</span> can you please show me the thread where the prime minister and president were introduced in the first place?<br><b>Twaddle:</b> Not claiming it doesn’t exist I just can’t find it<br><b>Alan:</b> https://discord.com/channels/907657508292792342/922102734331707463/922102737221586965<br><b>Alan:</b> The PM appoints ministries!<br><b>Alan:</b> The President is server owner.<br><b>Alan:</b> Obviously the bit about counting laws is obsolete now.<br><b>Twaddle:</b> One person voted<br><b>Twaddle:</b> That was it<br><b>Twaddle:</b> The rest didn’t care so we were forced to adopt your way<br><b>Alan:</b> <i>two<br><b>Twaddle:</b> Also this all useless because it’s a constitutional matter<br><b>Alan:</b> Yes<br><b>Alan:</b> This is what I have been thinking the whole time<br><b>Louis:</b> ```py<br>await message.channel.archive()<br>```<br><b>R. Louis:</b> ```py<br>Traceback (most recent call last):<br>  File \"/home/esmecat/dev/cheezland_utils/main.py\", line 178, in on_message<br>    await env[\"func\"]()<br>  File \"<string>\", line 3, in func<br>AttributeError: 'Thread' object has no attribute 'archive'<br>```<br><b>Louis:</b> ```py<br>await message.channel.edit(archived=True, locked=True)<br>```<br>"
+		},
+		{
+			"id": "932674698196709436",
+			"last_message_id": "932675688086007838",
+			"name": "Trademark Laws",
+			"votes": "2-for-0-against",
+			"passed": true,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Trademarks are like copyrights but apply to names of things (like RoboLouis), they are also managed by the copyright office. People can use this in everyday speech, however they cannot use it for commercial or monetary reasons. Normal rules surrounding Copyright and Court cases apply.<br><b>Alan:</b> For<br><b>Twaddle:</b> For<br>"
+		},
+		{
+			"id": "932673831775121410",
+			"last_message_id": "932691506932887633",
+			"name": "Our political situation",
+			"votes": "4-for-1-against",
+			"passed": true,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Twaddle:</b> Our political situation is a bit weird the only reason we have a prime minister and a president is purely because Alan wanted to have a seat of power. I propose 1) We abolish the prime minister position and give all its duties to the president 2) We abolish the president position and give all its duties to the prime minister 3) We remove both and have all MPs have admin<br><b>Twaddle:</b> For (1)<br><b>Alan:</b> Against<br><b>Louis:</b> For (3)<br><b>Louis:</b> ANARCHY ANARCHY ANARCHY<br><b>Twaddle:</b> @everyone<br><b>Elliot:</b> For (3)<br><b>Elliot:</b> https://tenor.com/view/chaos-gif-22919457<br><b>Twaddle:</b> <span class=\"ping\">@Adam</span><br><b>Adam:</b> For<br><b>Adam:</b> what could go wrong but isn't Alan the PM ur giving the power to<br><b>Louis:</b> which option are you voting for<br><b>Louis:</b> note the use of `for` in that message :0<br>"
+		},
+		{
+			"id": "932662722246639656",
+			"last_message_id": "932666211337109665",
+			"name": "Exceptions to freedom of speech",
+			"votes": "0-for-1-against",
+			"passed": false,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Prison overrides freedom of speech, so you can imprison someone without this being illegal. If /imprison is used incorrectly then a court case must be held.<br><b>Louis:</b> Bdbehhdbajsbdihdjdjvsiagjahvdjdbfkhddudjhdjdhsvdidbdhbdiebridv s be against BD djd djvshsvd<br>"
 		},
 		{
 			"id": "908424112576290856",
