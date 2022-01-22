@@ -1,11 +1,45 @@
-18:03:04 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
-18:03:05 [DEBUG] (1) get_threads::net: Recieved 200 OK in 366ms
-18:03:05 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public?before=2021-12-04T08:50:53.718000
-18:03:05 [DEBUG] (1) get_threads::net: Recieved 200 OK in 256ms
-18:03:05 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/active
-18:03:05 [DEBUG] (1) get_threads::net: Recieved 200 OK in 199ms
-18:03:05 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/archived/public
-18:03:06 [DEBUG] (1) get_threads::net: Recieved 200 OK in 204ms
-18:03:06 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/active
-18:03:06 [DEBUG] (1) get_threads::net: Recieved 200 OK in 207ms
-18:03:06 [INFO] Enumerated 106 threads
+10:28:34 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
+10:28:34 [DEBUG] (1) get_threads::net: Recieved 200 OK in 342ms
+10:28:34 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public?before=2021-12-07T17:47:04.596000
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 185ms
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/active
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 131ms
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/archived/public
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 205ms
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/active
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 134ms
+10:28:35 [INFO] Enumerated 110 threads
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/933120192404410409/messages?limit=100
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 174ms
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/737928480389333004
+10:28:35 [DEBUG] (1) get_threads::net: Recieved 200 OK in 143ms
+10:28:35 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/887020108696920116
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 138ms
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/762325231925854231
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 129ms
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/932673831775121410
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 156ms
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/932673831775121410/messages?limit=100
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 239ms
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/722468356711776269
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 169ms
+10:28:36 [INFO] ID 709767987242074116
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/709767987242074116
+10:28:36 [DEBUG] (1) get_threads::net: Recieved 200 OK in 185ms
+10:28:36 [INFO] ID 709767987242074116
+10:28:36 [INFO] ID 709767987242074116
+10:28:36 [INFO] ID 709767987242074116
+10:28:36 [INFO] ID 722468356711776269
+10:28:36 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/933028735404351498/messages?limit=100
+10:28:37 [DEBUG] (1) get_threads::net: Recieved 200 OK in 210ms
+10:28:37 [INFO] ID 887020108696920116
+10:28:37 [INFO] ID 737928480389333004
+10:28:37 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/933029626119323648/messages?limit=100
+10:28:37 [DEBUG] (1) get_threads::net: Recieved 200 OK in 181ms
+10:28:37 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/933030807117914142/messages?limit=100
+10:28:37 [DEBUG] (1) get_threads::net: Recieved 200 OK in 162ms
+10:28:37 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/guilds/907657508292792342/members/630073509137350690
+10:28:37 [DEBUG] (1) get_threads::net: Recieved 200 OK in 148ms
+10:28:37 [INFO] ID 887020108696920116
+10:28:37 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/932662722246639656/messages?limit=100
+10:28:37 [DEBUG] (1) get_threads::net: Recieved 200 OK in 178ms
