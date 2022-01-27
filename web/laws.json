@@ -1,5 +1,5 @@
 {
-	"generated": "Wed 26 Jan",
+	"generated": "Thu 27 Jan",
 	"laws": [
 		{
 			"id": "935599604064469064",
@@ -8,20 +8,20 @@
 			"votes": "3-for-0-against",
 			"passed": true,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>James:</b> To encourage fair and well thought out judging, judges shall be paid 3cc by the treasury per case where one participant and one external party deems that the judge acted in a respectful and considerate manner (regardless of if they are pleased by the case's outcome).<br><b>James:</b> For<br><b>Alan:</b> For<br><b>Louis:</b> For<br>"
 		},
 		{
 			"id": "935576799818182786",
-			"last_message_id": "935810271186944021",
+			"last_message_id": "935942247176863754",
 			"name": "Pay people for illegal accounts",
 			"votes": "3-for-1-against",
 			"passed": true,
 			"constitution": false,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>James:</b> People should be paid 2cc per week by the treasury for holding an illegal account, if they request it.<br><b>James:</b> For<br><b>Alan:</b> For<br><b>Twaddle:</b> For<br><b>Louis:</b> Against - this undermines the constitution<br>"
+			"description": "<b>James:</b> People should be paid 2cc per week by the treasury for holding an illegal account, if they request it.<br><b>James:</b> For<br><b>Alan:</b> For<br><b>Twaddle:</b> For<br><b>Louis:</b> Against - this undermines the constitution<br><b>James:</b> how?????<br>"
 		},
 		{
 			"id": "935577221458980875",
@@ -30,9 +30,20 @@
 			"votes": "3-for-1-against",
 			"passed": true,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>James:</b> The treasury is forecast to go bankrupt if the MP pay is not lowered to 1.5cc (with no streak bonuses).<br><b>James:</b> For<br><b>Alan:</b> The treasury is not going to go bankrupt<br><b>Alan:</b> But I still vote for<br><b>Twaddle:</b> Against<br><b>James:</b> why?<br><b>Louis:</b> For<br>"
+		},
+		{
+			"id": "936175682986328095",
+			"last_message_id": "936286693001142282",
+			"name": "Bots and Laws",
+			"votes": "3-for-0-against",
+			"passed": true,
+			"constitution": false,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Twaddle:</b> If a bot feature is specified by law, it must be implemented within one week, in the case of this being a feature that must be paid for, the government must fund it or take it to court where the judge will choose a reasonable price. Due to there being a large backlog of these features, there will be a two week period after this law is passed before it’s implementation to allow bot owners to clear up backlog<br><b>Twaddle:</b> <i>The government may only take the bot owner to court if they believe their pricing unfair<br><b>Twaddle:</b> For<br><b>Twaddle:</b> <span class=\"ping\">@Alan</span><br><b>Twaddle:</b> <span class=\"ping\">@Louis</span><br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>Alan:</b> For<br><b>Louis:</b> For<br>"
 		},
 		{
 			"id": "935567601352978552",
@@ -41,7 +52,7 @@
 			"votes": "3-for-0-against",
 			"passed": true,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>Alan:</b> It is illegal to delete messages bearing political weight sent by any member of New New Cheeseland, not including messages sent by bots or ephemeral messages. <br>This includes all messages in <span class=\"ping\">#parliament</span> <span class=\"ping\">#contracts</span> <span class=\"ping\">#court</span> <span class=\"ping\">#constitution</span> as well as ministerial channels, <span class=\"ping\">#bank</span> and <span class=\"ping\">#police</span> . This excludes DMs, archived channels, threads in other channels and <span class=\"ping\">#off-topic</span>  . NPO and Business CHannel owners may delete messages they deem in violation of their terms of device (which must be stated in their pinned messages or description).<br><b>R. Louis:</b> You fished up a 🐡, you get 3 points for that!<br><br>Items fished up so far: 🦞, ⚓, 👢, 🦀, 🦞, 🦀, 🐡, 🐠, ⚓, 🐡<br>Goes remaining: 0<br>Score: 25<br><b>R. Louis:</b> Your game is over! You scored a total of 25 points without hitting a shark!<br><b>Alan:</b> Thanks for voting for <span class=\"ping\">@R. Louis</span><br><b>Twaddle:</b> For<br><b>Alan:</b> For<br>"
 		},
