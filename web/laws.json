@@ -19,7 +19,7 @@
 			"votes": "3-for-1-against",
 			"passed": true,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Passed",
 			"interpretation": "",
 			"description": "<b>James:</b> People should be paid 2cc per week by the treasury for holding an illegal account, if they request it.<br><b>James:</b> For<br><b>Alan:</b> For<br><b>Twaddle:</b> For<br><b>Louis:</b> Against - this undermines the constitution<br><b>James:</b> how?????<br>"
 		},
@@ -36,14 +36,14 @@
 		},
 		{
 			"id": "936175682986328095",
-			"last_message_id": "936286693001142282",
+			"last_message_id": "936339087697260584",
 			"name": "Bots and Laws",
-			"votes": "3-for-0-against",
-			"passed": true,
+			"votes": "1-for-3-against",
+			"passed": false,
 			"constitution": false,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>Twaddle:</b> If a bot feature is specified by law, it must be implemented within one week, in the case of this being a feature that must be paid for, the government must fund it or take it to court where the judge will choose a reasonable price. Due to there being a large backlog of these features, there will be a two week period after this law is passed before it’s implementation to allow bot owners to clear up backlog<br><b>Twaddle:</b> <i>The government may only take the bot owner to court if they believe their pricing unfair<br><b>Twaddle:</b> For<br><b>Twaddle:</b> <span class=\"ping\">@Alan</span><br><b>Twaddle:</b> <span class=\"ping\">@Louis</span><br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>Alan:</b> For<br><b>Louis:</b> For<br>"
+			"description": "<b>Twaddle:</b> If a bot feature is specified by law, it must be implemented within one week, in the case of this being a feature that must be paid for, the government must fund it or take it to court where the judge will choose a reasonable price. Due to there being a large backlog of these features, there will be a two week period after this law is passed before it’s implementation to allow bot owners to clear up backlog<br><b>Twaddle:</b> <i>The government may only take the bot owner to court if they believe their pricing unfair<br><b>Twaddle:</b> For<br><b>Twaddle:</b> <span class=\"ping\">@Alan</span><br><b>Twaddle:</b> <span class=\"ping\">@Louis</span><br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>Alan:</b> For<br><b>Louis:</b> For<br><b>James:</b> Against - this puts unnecessary pressure on louis<br><b>Louis:</b> I agree<br><b>James:</b> Would you like to change your vote?<br><b>Twaddle:</b> For<br><b>Louis:</b> yes<br><b>Louis:</b> against<br><b>Alan:</b> Against<br>"
 		},
 		{
 			"id": "935567601352978552",
