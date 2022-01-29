@@ -1,6 +1,17 @@
 {
-	"generated": "Fri 28 Jan",
+	"generated": "Sat 29 Jan",
 	"laws": [
+		{
+			"id": "936921416438276106",
+			"last_message_id": "936921435526549585",
+			"name": "29.01.22 Presidential Election",
+			"votes": "0-for-0-against",
+			"passed": false,
+			"constitution": false,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> You may vote in one of two ways:<br><br>(1) James<br>(2) Louis<br><b>Alan:</b> (2)<br>"
+		},
 		{
 			"id": "935599604064469064",
 			"last_message_id": "935812627202998282",
@@ -41,7 +52,7 @@
 			"votes": "1-for-3-against",
 			"passed": false,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>Twaddle:</b> If a bot feature is specified by law, it must be implemented within one week, in the case of this being a feature that must be paid for, the government must fund it or take it to court where the judge will choose a reasonable price. Due to there being a large backlog of these features, there will be a two week period after this law is passed before it’s implementation to allow bot owners to clear up backlog<br><b>Twaddle:</b> <i>The government may only take the bot owner to court if they believe their pricing unfair<br><b>Twaddle:</b> For<br><b>Twaddle:</b> <span class=\"ping\">@Alan</span><br><b>Twaddle:</b> <span class=\"ping\">@Louis</span><br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>Alan:</b> For<br><b>Louis:</b> For<br><b>James:</b> Against - this puts unnecessary pressure on louis<br><b>Louis:</b> I agree<br><b>James:</b> Would you like to change your vote?<br><b>Twaddle:</b> For<br><b>Louis:</b> yes<br><b>Louis:</b> against<br><b>Alan:</b> Against<br>"
 		},
