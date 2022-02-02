@@ -1,49 +1,49 @@
 {
-	"generated": "Tue  1 Feb",
+	"generated": "Wed  2 Feb",
 	"laws": [
 		{
 			"id": "938086278983995422",
-			"last_message_id": "938086297963208714",
+			"last_message_id": "938112031960215652",
 			"name": "Turnout for elections",
-			"votes": "1-for-0-against",
-			"passed": true,
+			"votes": "1-for-1-against",
+			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
-			"description": "<b>Alan:</b> If less than three people vote in an election it is void and must be repeated.<br><b>Alan:</b> For<br>"
+			"description": "<b>Alan:</b> If less than three people vote in an election it is void and must be repeated.<br><b>Alan:</b> For<br><b>James:</b> Against<br>"
 		},
 		{
 			"id": "938086102949052416",
-			"last_message_id": "938086313406648340",
+			"last_message_id": "938111958513758298",
 			"name": "What can be interpreted as laws",
-			"votes": "1-for-0-against",
-			"passed": true,
+			"votes": "1-for-1-against",
+			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Any messages sent in a law or constitutional amendment thread after the first person (who is not the original person who proposed it) votes are not counted as part of the law.<br><b>Alan:</b> For<br>"
+			"description": "<b>Alan:</b> Any messages sent in a law or constitutional amendment thread after the first person (who is not the original person who proposed it) votes are not counted as part of the law.<br><b>Alan:</b> For<br><b>James:</b> Against<br>"
 		},
 		{
 			"id": "938045095813460008",
-			"last_message_id": "938105651622723615",
+			"last_message_id": "938111916411346984",
 			"name": "Party and voting laws",
-			"votes": "1-for-1-against",
+			"votes": "1-for-2-against",
 			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
-			"description": "<b>Alan:</b> All parties should have a manifesto, which they should submit to the current government. Instead of having everyone propose laws, the leader of the party should propose the legal part of their manifesto to <span class=\"ping\">#parliament</span> or <span class=\"ping\">#constitution</span>, where it is voted upon. By joining a political party, you support that party’s manifesto. If you are in that party but do not support it, leave. When a party is in power, only the leader of their party may propose laws, although the president can invoke emergency powers which allow them to do the following:<br><br>• Propose a law<br>• Veto (block) a law from being passed<br><br>However, a post-invocation inspection must be conducted by the Ministry of Justice, a new ministry. Unlike other ministries the leader of this ministry is elected to a 2-week term alongside the president, so that they will be fair. An election for the first term will take place upon this law being passed. If this inspection concludes that the invocation of emergency powers was not fair, then the president must resign, and an emergency election will be heard. A court case may be made by the president against the MoJ if they believe the inspection itself was unfair.<br><br>This law brings numerous benefits, such as encouraging people to join parties whose views they agree with, placing importance on absolute majorities and making being in power more meaningful<br><b>Alan:</b> For<br><b>Alan:</b> When I say legal part I mean the bit which requires laws to be passed. The non-legal part would be changing ministries etc.<br><b>Twaddle:</b> Against<br><b>Twaddle:</b> @everyone please come vote against<br><b>Twaddle:</b> This would suck<br><b>Alan:</b> Why?<br><b>Twaddle:</b> This gives too much power to party leaders and heavily restricts the impact a person not in a position of power can have on any cheeseland matters<br>"
+			"description": "<b>Alan:</b> All parties should have a manifesto, which they should submit to the current government. Instead of having everyone propose laws, the leader of the party should propose the legal part of their manifesto to <span class=\"ping\">#parliament</span> or <span class=\"ping\">#constitution</span>, where it is voted upon. By joining a political party, you support that party’s manifesto. If you are in that party but do not support it, leave. When a party is in power, only the leader of their party may propose laws, although the president can invoke emergency powers which allow them to do the following:<br><br>• Propose a law<br>• Veto (block) a law from being passed<br><br>However, a post-invocation inspection must be conducted by the Ministry of Justice, a new ministry. Unlike other ministries the leader of this ministry is elected to a 2-week term alongside the president, so that they will be fair. An election for the first term will take place upon this law being passed. If this inspection concludes that the invocation of emergency powers was not fair, then the president must resign, and an emergency election will be heard. A court case may be made by the president against the MoJ if they believe the inspection itself was unfair.<br><br>This law brings numerous benefits, such as encouraging people to join parties whose views they agree with, placing importance on absolute majorities and making being in power more meaningful<br><b>Alan:</b> For<br><b>Alan:</b> When I say legal part I mean the bit which requires laws to be passed. The non-legal part would be changing ministries etc.<br><b>Twaddle:</b> Against<br><b>Twaddle:</b> @everyone please come vote against<br><b>Twaddle:</b> This would suck<br><b>Alan:</b> Why?<br><b>Twaddle:</b> This gives too much power to party leaders and heavily restricts the impact a person not in a position of power can have on any cheeseland matters<br><b>James:</b> Against<br>"
 		},
 		{
 			"id": "938041492189093928",
-			"last_message_id": "938101743085051984",
+			"last_message_id": "938112089933877299",
 			"name": "Illegal Bank Accounts",
-			"votes": "1-for-1-against",
+			"votes": "1-for-2-against",
 			"passed": false,
 			"constitution": false,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Making a bank account that is not directly associated with an organisation (ministry, NPO, business or political party) should be illegal because there is a limit on how many options you can have on a drop down menu for slash commands so these accounts take up unnecessary space. It should be an offence to own or create such an account. Accounts must be clearly named to reflect the organisation they represent. The treasury is exempted from these laws, but it must always be called the treasury.<br><b>Alan:</b> For<br><b>Twaddle:</b> Against (James told me to)<br>"
+			"description": "<b>Alan:</b> Making a bank account that is not directly associated with an organisation (ministry, NPO, business or political party) should be illegal because there is a limit on how many options you can have on a drop down menu for slash commands so these accounts take up unnecessary space. It should be an offence to own or create such an account. Accounts must be clearly named to reflect the organisation they represent. The treasury is exempted from these laws, but it must always be called the treasury.<br><b>Alan:</b> For<br><b>Twaddle:</b> Against (James told me to)<br><b>James:</b> Against<br>"
 		},
 		{
 			"id": "936969652511342644",
@@ -52,7 +52,7 @@
 			"votes": "2-for-3-against",
 			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>James:</b> To encourage a diverse and fair political system, I propose we instate liftocracy.<br><b>Alan:</b> Against<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> ??<br><b>James:</b> <span class=\"ping\">@Louis</span> please share your opinion on this matter.<br><b>Louis:</b> what is a liftocracy?<br><b>James:</b> you must bing it<br><b>James:</b> bing has all the answers<br><b>Louis:</b> https://www.youtube.com/watch?v=fuIbBdZyFbU<br><b>Elliot:</b> Against<br><b>Elliot:</b> Because then chino will just be president forever<br><b>Twaddle:</b> For<br><b>Twaddle:</b> Also where do we plan to get these weights from?<br><b>Louis:</b> against<br><b>Alan:</b> One weight, different planets<br><b>James:</b> <span class=\"ping\">@Elliot</span> You have voted for by stating <b>for</b>ever in your last message<br><b>James:</b> Also where do we plan to get these different planets from?<br><b>James:</b> against<br><b>Twaddle:</b> Where do we plan to get this one weight from?<br><b>James:</b> the internet the home of many masses.<br><b>James:</b> https://duckduckgo.com/?q=10kg+mass&t=ffab&iax=shopping&ia=shopping<br><b>James:</b> https://duckduckgo.com/?q=5kg+mass&t=ffab&iar=shopping&related_requery=a&iax=shopping&ia=shopping<br><b>James:</b> https://duckduckgo.com/?q=2kg+mass&t=ffab&iar=shopping&related_done=a&iax=shopping&ia=shopping<br><b>James:</b> https://duckduckgo.com/?q=1kg+mass&t=ffab&iar=shopping&related_done=a&iax=shopping&ia=shopping<br><b>Elliot:</b> oh ok<br><b>Alan:</b> You<br><b>Twaddle:</b> Ok<br><b>Twaddle:</b> I do have one<br><b>James:</b> One weight would require different masses if you were working under different gravitational field strengths.<br><b>Alan:</b> The weights are supposed to be different weights<br><b>Alan:</b> To avoid having to have multiple weights<br><b>James:</b> Weight is measured in N<br><b>Alan:</b> I think weight (unit of measurement) and weight (heavy thing) are getting confused here<br><b>James:</b> A mass is a possibly heavy thing depending on the mass and the gravitational field strength.<br>"
 		},
