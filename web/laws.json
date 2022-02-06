@@ -2,6 +2,17 @@
 	"generated": "Sun  6 Feb",
 	"laws": [
 		{
+			"id": "939958878269997187",
+			"last_message_id": "939958890882269246",
+			"name": "Proposition of laws",
+			"votes": "1-for-0-against",
+			"passed": true,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> Only members of the largest political party can propose laws. This is to make being in power more meaningful, and to encourage parties to actually want to get into power. To prevent people from joining parties just to propose a law, the party leader can eject people from their party.However, parties must hold a vote on their leader at least once a month.<br><b>Alan:</b> For<br>"
+		},
+		{
 			"id": "938086278983995422",
 			"last_message_id": "938112031960215652",
 			"name": "Turnout for elections",
