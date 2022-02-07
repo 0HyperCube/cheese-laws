@@ -1,16 +1,49 @@
 {
-	"generated": "Sun  6 Feb",
+	"generated": "Mon  7 Feb",
 	"laws": [
 		{
+			"id": "940282490415882251",
+			"last_message_id": "940291893739286588",
+			"name": "rename to republic of honse",
+			"votes": "1-for-1-against",
+			"passed": false,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Louis:</b> The title says it all<br><b>Louis:</b> <br><b>Alan:</b> Against<br><b>Louis:</b> For<br>"
+		},
+		{
+			"id": "940276038393552956",
+			"last_message_id": "940280900523020379",
+			"name": "Coalitions",
+			"votes": "1-for-1-against",
+			"passed": false,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> In the event of two parties being tied for power, they can (a) form a coalition such that there is a majority, in which both party leaders must agree to make executive decisions such as their manifesto changes, or (b) simply not form a government, and everyone can propose laws in a somewhat anarchic situation.<br><b>Alan:</b> Not a multi-option vote, just the parties have two options.<br><b>Alan:</b> For<br><b>Twaddle:</b> Against<br><b>Twaddle:</b> This is just because this is literally just an add on to proposition of laws and I do not agree with that in the first place<br><b>Alan:</b> How exactly?<br><b>Alan:</b> It says everyone can propose laws<br><b>Alan:</b> Which is what you want I believe<br><b>Alan:</b> Yes I know<br><b>Alan:</b> Stop typing<br><b>Twaddle:</b> This is only needed under the assumption your other law is passed, due to your use of the word anarchical in a derogatory way in a situation where everyone can propose laws, furthermore this clause where this is stated would not be needed if the current political situation is in place due to everyone being able to propose laws by default at the moment<br><b>Alan:</b> Where does it say everyone can propose laws? -also who am I being “derogatory” to?<br><b>Alan:</b> Anyway none of that has to do with what I am actually proposing<br>"
+		},
+		{
+			"id": "940274558219456553",
+			"last_message_id": "940281301200683078",
+			"name": "Name and flag cannot be changed",
+			"votes": "1-for-1-against",
+			"passed": false,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Alan:</b> The server name (‘New New Cheeseland’/‘Third Cheeselandic Republic’) and flag/logo (attached) cannot be changed under any circumstances.<br><b>Alan:</b> <br><b>Louis:</b> Could you send the original flag<br><b>Alan:</b> For<br><b>Twaddle:</b> Against<br><b>Twaddle:</b> I think we may want to change the flag at some point<br><b>Alan:</b> I don’t.<br><b>Alan:</b> It’s perfect as it is.<br><b>Alan:</b> Wikipedia states that ‘The constitution [of Tonga] stipulates that the national flag [of Tonga] can never be changed.’<br>Tonga has a higher GDP than us, at $655 million. Therefore there is a direct correlation between not allowing the national flag to change and higher GDP! Vote now for major economic gains!<br><b>Louis:</b> Strange reasoning<br>"
+		},
+		{
 			"id": "939958878269997187",
-			"last_message_id": "939958890882269246",
+			"last_message_id": "940278079979421726",
 			"name": "Proposition of laws",
-			"votes": "1-for-0-against",
+			"votes": "2-for-1-against",
 			"passed": true,
 			"constitution": true,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Only members of the largest political party can propose laws. This is to make being in power more meaningful, and to encourage parties to actually want to get into power. To prevent people from joining parties just to propose a law, the party leader can eject people from their party.However, parties must hold a vote on their leader at least once a month.<br><b>Alan:</b> For<br>"
+			"description": "<b>Alan:</b> Only members of the largest political party can propose laws. This is to make being in power more meaningful, and to encourage parties to actually want to get into power. To prevent people from joining parties just to propose a law, the party leader can eject people from their party.However, parties must hold a vote on their leader at least once a month.<br><b>Alan:</b> For<br><b>Twaddle:</b> nah<br><b>Twaddle:</b> stop re-proposing this law<br><b>Twaddle:</b> its bad<br><b>Twaddle:</b> against<br><b>Twaddle:</b> @everyone come vote against<br><b>Twaddle:</b> This is just party and voting laws but slightly less extreme<br><b>Alan:</b> Why exactly?<br><b>Twaddle:</b> well severely limits the impact an individual can have on the country, this impact being one of the key things making new cheeseland so fun<br><b>Twaddle:</b> Also it literally gives all the power to one person<br><b>Twaddle:</b> which i swear you were against like 3 weeks ago<br><b>Alan:</b> How exactly<br><b>Alan:</b> Read it again<br><b>Alan:</b> I would argue that the thing which makes New New Cheeseland fun is the dynamic between political parties. Currently we have none of that - why? Because there is no reason for people to change parties. This law creates that.<br><b>Twaddle:</b> The leader of the party in charge, the can literally just kick others out to stop them proposing laws<br><b>Twaddle:</b> Also no one else is voting on this so it doesn’t matter how strong any of our arguments are because no-one else is listening<br><b>Twaddle:</b> And we certainly aren’t convincing one another<br><b>Alan:</b> No. If they kick too many people out they lose power!<br><b>Alan:</b> It’s a balance<br><b>Alan:</b> It makes it more interesting<br><b>Louis:</b> For<br><b>Louis:</b> Oh what fun<br><b>Louis:</b> re: <span class=\"ping\">@James</span> <span class=\"ping\">@Elliot</span><br>"
 		},
 		{
 			"id": "938086278983995422",
