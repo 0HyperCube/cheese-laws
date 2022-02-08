@@ -3,14 +3,14 @@
 	"laws": [
 		{
 			"id": "940327214942154782",
-			"last_message_id": "940348193546313808",
+			"last_message_id": "940525531059859546",
 			"name": "Rename cheesecoins to Electric Dobbies.",
-			"votes": "2-for-0-against",
-			"passed": true,
+			"votes": "1-for-1-against",
+			"passed": false,
 			"constitution": true,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>James:</b> Rename cheesecoins to Electric Dobbies.<br><b>Louis:</b> for<br><b>Alan:</b> For<br><b>Twaddle:</b> Dobbies?<br><b>Louis:</b> i assume electric dobra<br><b>James:</b> No - Electric Dobbies.<br><b>James:</b> Like in that book about the magic golden ball and the sock.<br><b>Louis:</b> umm<br>"
+			"description": "<b>James:</b> Rename cheesecoins to Electric Dobbies.<br><b>Louis:</b> for<br><b>Alan:</b> For<br><b>Twaddle:</b> Dobbies?<br><b>Louis:</b> i assume electric dobra<br><b>James:</b> No - Electric Dobbies.<br><b>James:</b> Like in that book about the magic golden ball and the sock.<br><b>Louis:</b> umm<br><b>Alan:</b> Against<br>"
 		},
 		{
 			"id": "940282490415882251",
@@ -30,7 +30,7 @@
 			"votes": "1-for-1-against",
 			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>Alan:</b> In the event of two parties being tied for power, they can (a) form a coalition such that there is a majority, in which both party leaders must agree to make executive decisions such as their manifesto changes, or (b) simply not form a government, and everyone can propose laws in a somewhat anarchic situation.<br><b>Alan:</b> Not a multi-option vote, just the parties have two options.<br><b>Alan:</b> For<br><b>Twaddle:</b> Against<br><b>Twaddle:</b> This is just because this is literally just an add on to proposition of laws and I do not agree with that in the first place<br><b>Alan:</b> How exactly?<br><b>Alan:</b> It says everyone can propose laws<br><b>Alan:</b> Which is what you want I believe<br><b>Alan:</b> Yes I know<br><b>Alan:</b> Stop typing<br><b>Twaddle:</b> This is only needed under the assumption your other law is passed, due to your use of the word anarchical in a derogatory way in a situation where everyone can propose laws, furthermore this clause where this is stated would not be needed if the current political situation is in place due to everyone being able to propose laws by default at the moment<br><b>Alan:</b> Where does it say everyone can propose laws? -also who am I being “derogatory” to?<br><b>Alan:</b> Anyway none of that has to do with what I am actually proposing<br>"
 		},
