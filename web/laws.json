@@ -1,5 +1,5 @@
 {
-	"generated": "Tue  8 Feb",
+	"generated": "Wed  9 Feb",
 	"laws": [
 		{
 			"id": "940327214942154782",
@@ -8,7 +8,7 @@
 			"votes": "1-for-1-against",
 			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>James:</b> Rename cheesecoins to Electric Dobbies.<br><b>Louis:</b> for<br><b>Alan:</b> For<br><b>Twaddle:</b> Dobbies?<br><b>Louis:</b> i assume electric dobra<br><b>James:</b> No - Electric Dobbies.<br><b>James:</b> Like in that book about the magic golden ball and the sock.<br><b>Louis:</b> umm<br><b>Alan:</b> Against<br>"
 		},
@@ -19,9 +19,20 @@
 			"votes": "3-for-3-against",
 			"passed": false,
 			"constitution": true,
-			"status": "Voting",
+			"status": "Not passed",
 			"interpretation": "",
 			"description": "<b>Louis:</b> The title says it all<br><b>Louis:</b> <br><b>Alan:</b> Against<br><b>Louis:</b> For<br><b>Twaddle:</b> Against<br><b>Louis:</b> <span class=\"ping\">@Elliot</span> please help<br><b>Elliot:</b> For<br><b>Louis:</b> yes<br><b>Louis:</b> <span class=\"ping\">@Adam</span> HONSE<br><b>Adam:</b> what is HONSE and what are we renaming<br><b>Elliot:</b> HONSE<br><b>Adam:</b> For<br><b>Louis:</b> yes its honse time<br><b>Twaddle:</b> <span class=\"ping\">@James</span><br><b>James:</b> against<br><b>Adam:</b> what happens if we draw?<br><b>Twaddle:</b> its not passed]<br><b>Adam:</b> rip HONSE then<br><b>Louis:</b> ;(<br><b>Louis:</b> <span class=\"ping\">@D-Man</span> you are our only hope<br>"
+		},
+		{
+			"id": "940694004843049010",
+			"last_message_id": "941005043363094659",
+			"name": "i shall be the king of the kingdom of honse",
+			"votes": "5-for-2-against",
+			"passed": true,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Louis:</b> nothing else matters, return to honse<br><b>Twaddle:</b> against<br><b>Alan:</b> For<br><b>Louis:</b> for<br><b>Yo! Bot and Banking:</b> An internal error has occurred, try again later!<br><b>Yo! Bot and Banking:</b> against<br><b>RoboLouis:</b> You fished up a 🐡, you get 3 points for that!<br><br>Items fished up so far: 👢, 👢, 🦀, 👢, 🦀, ⚓, ⚓, 🦀, 🦞, 🐡<br>Goes remaining: 0<br>Score: 18<br><b>RoboLouis:</b> Your game is over! You scored a total of 18 points without hitting a shark!<br><b>Twaddle:</b> The bots cancel each other out<br><b>Deleted User:</b> for<br><b>Louis:</b> <span class=\"ping\">@Elliot</span><br><b>Elliot:</b> For<br><b>Yo! Bot and Banking:</b> An internal error has occurred, try again later!<br><b>Yo! Bot and Banking:</b> An internal error has occurred, try again later!<br>"
 		},
 		{
 			"id": "940276038393552956",
@@ -47,14 +58,14 @@
 		},
 		{
 			"id": "939958878269997187",
-			"last_message_id": "940353498032275497",
+			"last_message_id": "940694944283238410",
 			"name": "Proposition of laws",
 			"votes": "2-for-4-against",
 			"passed": false,
 			"constitution": true,
 			"status": "Voting",
 			"interpretation": "",
-			"description": "<b>Alan:</b> Only members of the largest political party can propose laws. This is to make being in power more meaningful, and to encourage parties to actually want to get into power. To prevent people from joining parties just to propose a law, the party leader can eject people from their party.However, parties must hold a vote on their leader at least once a month.<br><b>Alan:</b> For<br><b>Twaddle:</b> nah<br><b>Twaddle:</b> stop re-proposing this law<br><b>Twaddle:</b> its bad<br><b>Twaddle:</b> against<br><b>Twaddle:</b> @everyone come vote against<br><b>Twaddle:</b> This is just party and voting laws but slightly less extreme<br><b>Alan:</b> Why exactly?<br><b>Twaddle:</b> well severely limits the impact an individual can have on the country, this impact being one of the key things making new cheeseland so fun<br><b>Twaddle:</b> Also it literally gives all the power to one person<br><b>Twaddle:</b> which i swear you were against like 3 weeks ago<br><b>Alan:</b> How exactly<br><b>Alan:</b> Read it again<br><b>Alan:</b> I would argue that the thing which makes New New Cheeseland fun is the dynamic between political parties. Currently we have none of that - why? Because there is no reason for people to change parties. This law creates that.<br><b>Twaddle:</b> The leader of the party in charge, the can literally just kick others out to stop them proposing laws<br><b>Twaddle:</b> Also no one else is voting on this so it doesn’t matter how strong any of our arguments are because no-one else is listening<br><b>Twaddle:</b> And we certainly aren’t convincing one another<br><b>Alan:</b> No. If they kick too many people out they lose power!<br><b>Alan:</b> It’s a balance<br><b>Alan:</b> It makes it more interesting<br><b>Louis:</b> For<br><b>Louis:</b> Oh what fun<br><b>Louis:</b> re: <span class=\"ping\">@James</span> <span class=\"ping\">@Elliot</span><br><b>James:</b> Against<br><b>Elliot:</b> Against<br><b>Alan:</b> <span class=\"ping\">@Adam</span><br><b>Adam:</b> ty<br><b>Adam:</b> against<br><b>Adam:</b> quite fond of this agreement which u thought no-one would read twaddle 😐<br><b>Alan:</b> Why?<br><b>Alan:</b> This law can do only good for New New Cheeseland.<br>"
+			"description": "<b>Alan:</b> Only members of the largest political party can propose laws. This is to make being in power more meaningful, and to encourage parties to actually want to get into power. To prevent people from joining parties just to propose a law, the party leader can eject people from their party.However, parties must hold a vote on their leader at least once a month.<br><b>Alan:</b> For<br><b>Twaddle:</b> nah<br><b>Twaddle:</b> stop re-proposing this law<br><b>Twaddle:</b> its bad<br><b>Twaddle:</b> against<br><b>Twaddle:</b> @everyone come vote against<br><b>Twaddle:</b> This is just party and voting laws but slightly less extreme<br><b>Alan:</b> Why exactly?<br><b>Twaddle:</b> well severely limits the impact an individual can have on the country, this impact being one of the key things making new cheeseland so fun<br><b>Twaddle:</b> Also it literally gives all the power to one person<br><b>Twaddle:</b> which i swear you were against like 3 weeks ago<br><b>Alan:</b> How exactly<br><b>Alan:</b> Read it again<br><b>Alan:</b> I would argue that the thing which makes New New Cheeseland fun is the dynamic between political parties. Currently we have none of that - why? Because there is no reason for people to change parties. This law creates that.<br><b>Twaddle:</b> The leader of the party in charge, the can literally just kick others out to stop them proposing laws<br><b>Twaddle:</b> Also no one else is voting on this so it doesn’t matter how strong any of our arguments are because no-one else is listening<br><b>Twaddle:</b> And we certainly aren’t convincing one another<br><b>Alan:</b> No. If they kick too many people out they lose power!<br><b>Alan:</b> It’s a balance<br><b>Alan:</b> It makes it more interesting<br><b>Louis:</b> For<br><b>Louis:</b> Oh what fun<br><b>Louis:</b> re: <span class=\"ping\">@Deleted User</span> <span class=\"ping\">@Elliot</span><br><b>Deleted User:</b> Against<br><b>Elliot:</b> Against<br><b>Alan:</b> <span class=\"ping\">@Adam</span><br><b>Adam:</b> ty<br><b>Adam:</b> against<br><b>Adam:</b> quite fond of this agreement which u thought no-one would read twaddle 😐<br><b>Alan:</b> Why?<br><b>Alan:</b> This law can do only good for New New Cheeseland.<br><b>RoboLouis:</b> Your game is over! You scored a total of 36 points without hitting a shark!<br>"
 		},
 		{
 			"id": "938086278983995422",
