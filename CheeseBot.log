@@ -1,11 +1,11 @@
-22:33:01 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
-22:33:01 [DEBUG] (1) get_threads::net: Recieved 200 OK in 428ms
-22:33:01 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public?before=2021-12-12T12:55:56.770000
-22:33:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 303ms
-22:33:02 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/active
-22:33:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 145ms
-22:33:02 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/archived/public
-22:33:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 263ms
-22:33:02 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/active
-22:33:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 150ms
-22:33:02 [INFO] Enumerated 127 threads
+17:18:43 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
+17:18:49 [DEBUG] (1) get_threads::net: Recieved 200 OK in 5254ms
+17:18:49 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public?before=2021-12-12T12:55:56.770000
+17:18:49 [DEBUG] (1) get_threads::net: Recieved 200 OK in 311ms
+17:18:49 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/active
+17:18:49 [DEBUG] (1) get_threads::net: Recieved 200 OK in 172ms
+17:18:49 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/archived/public
+17:18:49 [DEBUG] (1) get_threads::net: Recieved 200 OK in 267ms
+17:18:49 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/active
+17:18:50 [DEBUG] (1) get_threads::net: Recieved 200 OK in 186ms
+17:18:50 [INFO] Enumerated 127 threads
