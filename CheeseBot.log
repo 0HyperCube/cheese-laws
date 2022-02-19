@@ -1,1 +1,11 @@
-13:19:48 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
+10:48:00 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public
+10:48:01 [DEBUG] (1) get_threads::net: Recieved 200 OK in 1061ms
+10:48:01 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/archived/public?before=2021-12-12T12:55:56.770000
+10:48:01 [DEBUG] (1) get_threads::net: Recieved 200 OK in 217ms
+10:48:01 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907664196567703584/threads/active
+10:48:01 [DEBUG] (1) get_threads::net: Recieved 200 OK in 128ms
+10:48:01 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/archived/public
+10:48:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 316ms
+10:48:02 [DEBUG] (1) get_threads::net: Sending get to https://discord.com/api/v9/channels/907661773925126164/threads/active
+10:48:02 [DEBUG] (1) get_threads::net: Recieved 200 OK in 141ms
+10:48:02 [INFO] Enumerated 127 threads
