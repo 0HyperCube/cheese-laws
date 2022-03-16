@@ -1,6 +1,17 @@
 {
-	"generated": "Tue 15 Mar",
+	"generated": "Wed 16 Mar",
 	"laws": [
+		{
+			"id": "953680416261423164",
+			"last_message_id": "953681266669150278",
+			"name": "The kingdom of honse shall be changed forever by a new influence and blah blah blah",
+			"votes": "1-for-0-against",
+			"passed": true,
+			"constitution": true,
+			"status": "Voting",
+			"interpretation": "",
+			"description": "<b>Twaddle:</b> I am the new king of honse<br><b>Twaddle:</b> For<br><b>Twaddle:</b> This entails me getting server ownership by the way<br><b>Twaddle:</b> And absolute power over all of the server<br>"
+		},
 		{
 			"id": "940327214942154782",
 			"last_message_id": "940525531059859546",
